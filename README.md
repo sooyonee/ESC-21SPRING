@@ -1,5 +1,5 @@
 # ESC-21SPRING
-<img src="https://raw.githubusercontent.com/YonseiESC/ESC21-WINTER/master/img/1.png" width = "800" height="800">
+<img src="https://raw.githubusercontent.com/YonseiESC/ESC21-WINTER/master/img/1.png" width = "700" height="700">
 
 ## Individual Sutdies
 
