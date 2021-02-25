@@ -1,5 +1,5 @@
 # ESC-21SPRING
-![Poster](https://raw.githubusercontent.com/YonseiESC/ESC21-WINTER/master/img/1.png){: width="80%" height="80%"}
+<img src="https://raw.githubusercontent.com/YonseiESC/ESC21-WINTER/master/img/1.png" width = "100" height="100">
 
 ## Individual Sutdies
 
