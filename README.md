@@ -24,6 +24,7 @@
 
 ## 세션 영상 유튜브 링크
 [ESC 2021-1] 210224 Orientation - Brief Intro. to this semester's materials <br>
+https://youtu.be/V-3FmZnlyBY
 
 ## Hun-Learning Bayesian Statistics
 https://youtu.be/vmcE7Zx16lE
