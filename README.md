@@ -26,6 +26,9 @@
 [ESC 2021-1] 210224 Orientation - Brief Intro. to this semester's materials <br>
 https://youtu.be/V-3FmZnlyBY
 
+[ESC 2021-1] 210304 Week1 Likelihood and Prior (FCB Chapter 1, 2) <br>
+https://youtu.be/8WTSe0St3io
+
 ## Hun-Learning Bayesian Statistics
 https://youtu.be/vmcE7Zx16lE
 
