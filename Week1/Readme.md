@@ -1,6 +1,6 @@
 ### week1
 
-##### HW(Week1_lab 참고해주세요)
+##### HW(Week1_lab.ipynb  참고해주세요)
 
 1) Part 2의 code를 수정해서 (Strong likelihood, Weak likelihood) x (Uninformative prior, Weak prior, Strong prior)의 6가지 경우 비교해보기
 
