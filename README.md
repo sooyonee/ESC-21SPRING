@@ -6,17 +6,17 @@
 | Date | Main Session(Bayesian Statistics) <br> Every Thur.| Data Analysis Session <br> Every Sat.|
 |:-------|:-----------------------:|:---------------------:|
 |Week 0(2/24)| Orientation - Brief Intro. to this semester's materials ||
-|Week 1(3/04)| Likelihood and Prior (FCB Chapter 1, 2) ||
-|Week 2(3/11, 3/13)|One-parameter and Noraml model (FCB Chapter 3)|EDA|
-|Week 3(3/18)|One-parameter and Normal model (FCB Chapter 4)||
-|Week 4(3/25, 3/27)|One-parameter and Normal model (FCB Chapter 5)|Modeling 1|
-|Week 5(4/01)|Multivariate Normal model (FCB Chapter 7)||
-|Week 6(4/08, 4/10)| Bayesian Hierarchical Models (FCB Chapter 8)|Modeling 2|
+|Week 1(3/04)| Likelihood and Prior (FCB Chapter 1, 2, 3 sneak peek) ||
+|Week 2(3/11, 3/13)| One-parameter and Noraml model (FCB Chapter 3)|EDA|
+|Week 3(3/18)| One-parameter and Normal model (BDA 2.2/2.5/2.6/3.1-3.4)||
+|Week 4(3/25, 3/27)| Multivariate Normal model (FCB Chapter 7)|Modeling 1|
+|Week 5(4/01)| Bayesian Hierarchical Models (FCB Chapter 8)||
+|Week 6(4/08, 4/10)| Sampling Scheme & MCMC and Diagnosis |Modeling 2|
 || Midterm Exam ||
-|Week 7(5/06, 5/08)|MCMC and Diagnosis (FCB Chapter 6, 10)| TBD |
-|Week 8(5/13)|MCMC and Diagnosis (FCB Chapter 6, 10)| |
-|Week 9(5/20, 5/22)|Bayesian Linear Regression (FCB Chapter 9)| TBD|
-|Week 10(5/27)|Bayesian Linear Regression (FCB Chapter 9)||
+|Week 7(5/06, 5/08)| MCMC and Diagnosis (FCB Chapter 6, 10)| TBD |
+|Week 8(5/13)| MCMC and Diagnosis (FCB Chapter 10)| |
+|Week 9(5/20, 5/22)| Bayesian Linear Regression (FCB Chapter 9)| TBD|
+|Week 10(5/27)| Bayesian Linear Regression + Intro. to our Final project||
 |Week 11(6/03, 6/05)|Final Project| TBD|
 ||Final Exam and End of Semester!!||
 
