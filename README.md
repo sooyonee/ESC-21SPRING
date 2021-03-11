@@ -29,6 +29,9 @@ https://youtu.be/V-3FmZnlyBY
 [ESC 2021-1] 210304 Week1 Likelihood and Prior (FCB Chapter 1, 2) <br>
 https://youtu.be/8WTSe0St3io
 
+[ESC 2021-1] 210311 Week2 One-parameter and Noraml model <br>
+https://youtu.be/WCb3sJwNuao
+
 ## 학술부 세션 영상 링크
 [ESC 2021-1] 210302 Week1<br>
 https://youtu.be/8_rbUy3rbD0
