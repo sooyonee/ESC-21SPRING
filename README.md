@@ -29,6 +29,13 @@ https://youtu.be/V-3FmZnlyBY
 [ESC 2021-1] 210304 Week1 Likelihood and Prior (FCB Chapter 1, 2) <br>
 https://youtu.be/8WTSe0St3io
 
+## 학술부 세션 영상 링크
+[ESC 2021-1] 210302 Week1<br>
+https://youtu.be/8_rbUy3rbD0
+
+[ESC 2021-1] 210309 Week2<br>
+https://youtu.be/B-orHYguATY
+
 ## Hun-Learning Bayesian Statistics
 https://youtu.be/vmcE7Zx16lE
 
