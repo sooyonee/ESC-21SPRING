@@ -1,6 +1,6 @@
 
 # Week 3 HW
- 1. BDA Chapter 2 Exercise 
+ 1. BDA Chapter 2 Exercise 8: 
 Normal distribution with unknowm mean: a random sample of n students is drawn from a large population,
 and their weights are measured. The average weight of the n sampled students is ..
 
