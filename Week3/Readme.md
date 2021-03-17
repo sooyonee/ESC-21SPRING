@@ -1,2 +1,2 @@
-### Upload Week3 contents.
-####HW
+### Upload Week3 contents
+
