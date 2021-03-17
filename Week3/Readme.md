@@ -1,4 +1,3 @@
-# Upload Week3 contents
 
 # Week 3 HW
 # 1. BDA Chapter 2 Exercise 8
