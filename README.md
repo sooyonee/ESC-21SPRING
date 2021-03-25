@@ -32,6 +32,9 @@ https://youtu.be/8WTSe0St3io
 [ESC 2021-1] 210311 Week2 One-parameter and Noraml model <br>
 https://youtu.be/WCb3sJwNuao
 
+[ESC 2021-1] 210318 Week3 One-parameter and Normal model(BDA 2.2/2.5/2.6/3.1-3.4 <br>
+https://youtu.be/JCq2h2Qvg94
+
 ## 학술부 세션 영상 링크
 [ESC 2021-1] 210302 Week1<br>
 https://youtu.be/8_rbUy3rbD0
