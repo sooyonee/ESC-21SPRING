@@ -6,7 +6,7 @@ optional : FCB p.115 ~ p.120 (NA imputation 관련)
 
 
 
-1. FCB exercise 7.3
+1. FCB exercise 7.3 (예시 업로드함)
 
 2. `gibbs.ipynb` 파일의 `#채워보세요!` 부분 채워서 Gibbs Sampler 움짤 만들어보기
 
