@@ -18,9 +18,10 @@
 
 1. Using `RatTumor.R`,
 
-   1. Derive the marginal posterior distribution for (alpha, beta).
+   1. Derive the marginal posterior distribution for (alpha, beta).  
+   
 ![](https://raw.githubusercontent.com/YonseiESC/ESC-21SPRING/main/Week1/HW/5%EC%A1%B0/img/equationhints.png)
-
+  
    2. Find the line(s) in the R code that is equivalent to the result 1-1.
 
 2. TBD
