@@ -19,17 +19,7 @@
 1. Using `RatTumor.R`,
 
    1. Derive the marginal posterior distribution for (alpha, beta).
-      $$
-      \begin{align*}
-      p(\theta,\psi|y) &\propto p(y|\theta,\psi)p(\theta,\psi) \\
-      &= p(y|\theta)p(\theta,\psi) \\
-      &= p(y|\theta)p(\theta|\psi)p(\psi)
-      \end{align*}
-      $$
-
-      $$
-      p(\alpha,\beta|y) = \int_{\Theta}p(\theta,\alpha,\beta|y)\:d\theta
-      $$
+![](https://raw.githubusercontent.com/YonseiESC/ESC-21SPRING/main/Week1/HW/5%EC%A1%B0/img/equationhints.png)
 
    2. Find the line(s) in the R code that is equivalent to the result 1-1.
 
