@@ -35,6 +35,12 @@ https://youtu.be/WCb3sJwNuao
 [ESC 2021-1] 210318 Week3 One-parameter and Normal model(BDA 2.2/2.5/2.6/3.1-3.4 <br>
 https://youtu.be/JCq2h2Qvg94
 
+[ESC 2021-1] 210325 Week4 Multivariate Normal model (FCB Chapter 7) <br>
+https://youtu.be/LQWBEVdl0Oc
+
+[ESC 2021-1] 210401 Week5 Bayesian Hierarchical Models (FCB Chapter 8) <br>
+https://youtu.be/OEDk51Y9WTs
+
 ## 학술부 세션 영상 링크
 [ESC 2021-1] 210302 Week1<br>
 https://youtu.be/8_rbUy3rbD0
