@@ -23,7 +23,8 @@
 
    2. Find the line(s) in the R code that corresponds to the result of 1-i.
 
-2. TBD
+2. Hierarchical normal.R ,
+  ##채워보세요!! 부분 채워보기. 
 
 3. TBD
 
