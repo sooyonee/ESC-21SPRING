@@ -41,6 +41,9 @@ https://youtu.be/LQWBEVdl0Oc
 [ESC 2021-1] 210401 Week5 Bayesian Hierarchical Models (FCB Chapter 8) <br>
 https://youtu.be/OEDk51Y9WTs
 
+[ESC 2021-1] 210408 Week6 Sampling Scheme & MCMC and Diagnosis <br>
+https://youtu.be/uY5PCL2QhDw
+
 ## 학술부 세션 영상 링크
 [ESC 2021-1] 210302 Week1<br>
 https://youtu.be/8_rbUy3rbD0
