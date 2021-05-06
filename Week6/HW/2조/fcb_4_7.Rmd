@@ -1,0 +1,65 @@
+---
+title: "asdasdasd"
+author: "Gyumin Lee"
+date: '2021 5 5 '
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.align = 'center', message = FALSE)
+library(knitr)
+library(ggplot2)
+library(cowplot)
+library(reshape)
+```
+
+
+## 4.7
+
+### a
+We first sample theta, and sigma^2 in such process:
+first, get samples  from sigma^2
+and then get sample from theta|sigma^2
+
+```{r}
+N = 5000
+sigma2.mc = 1 / rgamma(N, 10, 2.5)
+theta.mc = rnorm(N, 4.1, sigma2.mc / 20)
+```
+
+sample the mixture distribution:
+```{r}
+sigma.mc = sqrt(sigma2.mc)
+ynew.mc = 0.31 * rnorm(N, theta.mc, sigma.mc) +
+  0.46 * rnorm(N, 2 * theta.mc, 2 * sigma.mc) +
+  0.23 * rnorm(N, 3 * theta.mc, 3 * sigma.mc)
+qplot(ynew.mc, stat = 'hist')
+```
+
+### b
+```{r}
+quantile(ynew.mc, c(.125, .875))
+```
+
+### c
+
+```{r}
+# 1) Compute and normalize density
+dens = density(ynew.mc)
+dens.ynorm = dens$y / sum(dens$y)
+# 2) Sort in decreasing order
+dens.ynorm.desc = dens.ynorm[order(dens.ynorm, decreasing = TRUE)]
+# 3) Find first probability value s.t. cumsum of sorted values > 0.75
+cutoff = dens.ynorm.desc[min(which(cumsum(dens.ynorm.desc) > 0.75))]
+in.hdp = dens.ynorm > cutoff
+ggplot(data.frame(y = dens$x, density = dens.ynorm, hdp = in.hdp)) +
+  geom_point(aes(x = y, y = density, color = hdp))
+dens$x[c(min(which(in.hdp)), max(which(in.hdp)))]
+```
+
+Since the distribution is nearly symmetric and normally
+distributed, the HDP and quantile confidence intervals are quite similar.
+
+### d
+
+Perhaps a combination of multiple parts of a vegetable which have known distributions (e.g. stem, fruit, leaves, etc)
