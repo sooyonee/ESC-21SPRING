@@ -44,7 +44,7 @@ https://youtu.be/OEDk51Y9WTs
 [ESC 2021-1] 210408 Week6 Sampling Scheme & MCMC and Diagnosis <br>
 https://youtu.be/Mk_t-EqMI6A
 
-[ESC 2021-1] 210408 Week7 Sampling Scheme & MCMC and Diagnosis <br>
+[ESC 2021-1] 210408 Week7 Recap + Marcov chain + Metropolis Hastings <br>
 https://youtu.be/DX1Z-cpR9j8
 
 ## 학술부 세션 영상 링크
