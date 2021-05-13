@@ -47,6 +47,9 @@ https://youtu.be/Mk_t-EqMI6A
 [ESC 2021-1] 210506 Week7 Recap + Marcov chain + Metropolis Hastings <br>
 https://youtu.be/DX1Z-cpR9j8
 
+[ESC 2021-1] 210506 Week8 MCMC and Diagnosis & Bayesian Linear Regression <br>
+https://youtu.be/THx1ka9KWog
+
 ## 학술부 세션 영상 링크
 [ESC 2021-1] 210302 Week1<br>
 https://youtu.be/8_rbUy3rbD0
