@@ -1,11 +1,11 @@
 # ESC-21SPRING
 <img src="https://raw.githubusercontent.com/YonseiESC/ESC21-WINTER/master/img/1.png" width = "700" height="700">
 
-## Individual Sutdies
+## Individual Studies
 
 | Date | Main Session(Bayesian Statistics) <br> Every Thur.| Data Analysis Session <br> Sat. (Bi-weekly) |
 |:-------|:-----------------------:|:---------------------:|
-|Week 0<br/> (2/24)| Orientation - Brief Intro. to this semester's materials ||
+|Week 0<br/>(2/24)| Orientation - Brief Intro. to this semester's materials ||
 |Week 1<br/>(3/04)| Likelihood and Prior (FCB Chapter 1, 2, 3 sneak peek)<br/> 발제자 : 임선우, 김수연 |Alumni 연사특강|
 |Week 2<br/>(3/11, 3/13)| One-parameter and Noraml model (FCB Chapter 3)<br/> 발제자 : 이재현, 이청파 |EDA|
 |Week 3<br/>(3/18)| One-parameter and Normal model (BDA 2.2/2.5/2.6/3.1-3.4)<br/> 발제자 : 박한빈, 정유진 ||
@@ -13,7 +13,7 @@
 |Week 5<br/>(4/01)| Bayesian Hierarchical Models (FCB Chapter 8)<br/> 발제자 : 이재현, 정유진 ||
 |Week 6<br/>(4/08, 4/10)| Sampling Scheme & Intro to MCMC<br/> 발제자 : 최익준, 김정규 |Modeling 2|
 || Midterm Exam ||
-|Week 7<br/>(5/06, 5/08)| Recap + Markov Chain + MH algorithm<br/> 발제자 : 최익준, 이청파 |  |
+|Week 7<br/>(5/06)| Recap + Markov Chain + MH algorithm<br/> 발제자 : 최익준, 이청파 |  |
 |Week 8<br/>(5/13)| MCMC Diagnosis + BLR part1<br/> 발제자 : 이규민, 손지우 | |
 |Week 9<br/>(5/20, 5/22)| Bayesian Model Selection<br/> 발제자 : 박한빈, 김정규 | 연사특강 |
 |Week 10<br/>(5/27)| 정성현 교수님 특강<br/>Final Project 중간발표 ||
