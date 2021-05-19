@@ -1,26 +1,26 @@
 # ESC-21SPRING
 <img src="https://raw.githubusercontent.com/YonseiESC/ESC21-WINTER/master/img/1.png" width = "700" height="700">
 
-## Individual Sutdies
+## Individual Studies
 
-| Date | Main Session(Bayesian Statistics) <br> Every Thur.| Data Analysis Session <br> Every Sat.|
+| Date | Main Session(Bayesian Statistics) <br> Every Thur.| Data Analysis Session <br> Sat. (Bi-weekly) |
 |:-------|:-----------------------:|:---------------------:|
-|Week 0(2/24)| Orientation - Brief Intro. to this semester's materials ||
-|Week 1(3/04)| Likelihood and Prior (FCB Chapter 1, 2, 3 sneak peek) ||
-|Week 2(3/11, 3/13)| One-parameter and Noraml model (FCB Chapter 3)|EDA|
-|Week 3(3/18)| One-parameter and Normal model (BDA 2.2/2.5/2.6/3.1-3.4)||
-|Week 4(3/25, 3/27)| Multivariate Normal model (FCB Chapter 7)|Modeling 1|
-|Week 5(4/01)| Bayesian Hierarchical Models (FCB Chapter 8)||
-|Week 6(4/08, 4/10)| Sampling Scheme & MCMC and Diagnosis |Modeling 2|
+|Week 0<br/>(2/24)| Orientation - Brief Intro. to this semester's materials ||
+|Week 1<br/>(3/04)| Likelihood and Prior (FCB Chapter 1, 2, 3 sneak peek)<br/> 발제자 : 임선우, 김수연 |Alumni 연사특강|
+|Week 2<br/>(3/11, 3/13)| One-parameter and Noraml model (FCB Chapter 3)<br/> 발제자 : 이재현, 이청파 |EDA|
+|Week 3<br/>(3/18)| One-parameter and Normal model (BDA 2.2/2.5/2.6/3.1-3.4)<br/> 발제자 : 박한빈, 정유진 ||
+|Week 4<br/>(3/25, 3/27)| Multivariate Normal model (FCB Chapter 7)<br/> 발제자 : 이규민, 김관석 |Modeling 1 + 연사특강|
+|Week 5<br/>(4/01)| Bayesian Hierarchical Models (FCB Chapter 8)<br/> 발제자 : 이재현, 정유진 ||
+|Week 6<br/>(4/08, 4/10)| Sampling Scheme & Intro to MCMC<br/> 발제자 : 최익준, 김정규 |Modeling 2|
 || Midterm Exam ||
-|Week 7(5/06, 5/08)| MCMC and Diagnosis (FCB Chapter 6, 10)| TBD |
-|Week 8(5/13)| MCMC and Diagnosis (FCB Chapter 10)| |
-|Week 9(5/20, 5/22)| Bayesian Linear Regression (FCB Chapter 9)| TBD|
-|Week 10(5/27)| Bayesian Linear Regression + Intro. to our Final project||
-|Week 11(6/03, 6/05)|Final Project| TBD|
+|Week 7<br/>(5/06)| Recap + Markov Chain + MH algorithm<br/> 발제자 : 최익준, 이청파 |  |
+|Week 8<br/>(5/13)| MCMC Diagnosis + BLR part1<br/> 발제자 : 이규민, 손지우 | |
+|Week 9<br/>(5/20, 5/22)| Bayesian Model Selection<br/> 발제자 : 박한빈, 김정규 | 연사특강 |
+|Week 10<br/>(5/27)| 정성현 교수님 특강<br/>Final Project 중간발표 ||
+|Week 11<br/>(6/03)|Final Project 최종발표|  |
 ||Final Exam and End of Semester!!||
 
-중간 이후의 토요일 일정은 친목을 위한 행사 및 연사특강 등으로 배정될 예정입니다~
+
 
 ## 세션 영상 유튜브 링크
 [ESC 2021-1] 210224 Orientation - Brief Intro. to this semester's materials <br>
@@ -56,6 +56,21 @@ https://youtu.be/8_rbUy3rbD0
 
 [ESC 2021-1] 210309 Week2<br>
 https://youtu.be/B-orHYguATY
+
+[ESC 2021-1] 210316 Week3<br>https://youtu.be/p6FK7rwwWsI
+
+[ESC 2021-1] 210323 Week4<br>https://youtu.be/ZcKdPOwEdhs
+https://youtu.be/ImI8yyzO81A
+
+[ESC 2021-1] 210330 Week5<br>https://youtu.be/Bfe5yMyBAhA
+
+[ESC 2021-1] 210406 Week6<br>https://youtu.be/fR1qQuleYcU
+
+[ESC 2021-1] 210504 Week7<br>https://youtu.be/RT5q1Sm9vMw
+
+[ESC 2021-1] 210511 Week8<br>https://youtu.be/4ZzTWU8nDDk
+
+[ESC 2021-1] 210518 Week9<br>https://youtu.be/xAwGn7jsAQQ
 
 ## Hun-Learning Bayesian Statistics
 https://youtu.be/vmcE7Zx16lE
