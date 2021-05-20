@@ -15,7 +15,7 @@
 데이터 분석 이전에 데이터의 개형을 파악하고 직관을 얻는 단계입니다. 해야할 일은 다음과 같습니다. 
 
 - **Choosing Dataset** : 아래 소개될 데이터셋 중 하나를 선택합니다. 꼭 주어진 데이터를 선택하지 않아도 됩니다. 제시된 데이터셋이 아닌 새로운 데이터를 사용하거나, 제공된 데이터의 예측 변수를 다른 변수로 정의하거나, 추가로 데이터를 붙여서 분석을 하는 것 모두 좋습니다.
-  **⏰ 5월 21일 금요일 오후 7시까지 학술부장에게 개인톡으로 어떤 데이터셋을 사용할건지 1, 2지망을 알려주세요. 선착순이고, 이는 가능하면 각 데이터당 두 조를 넘지 않게 조정하고자 함입니다. **
+  **⏰ 5월 21일 금요일 오후 7시까지 학술부장에게 개인톡으로 어떤 데이터셋을 사용할건지 알려주세요.  **
 
 - **Pre-Processing** : 데이터의 특성상 전처리가 필요한 경우가 있습니다. 예를 들어, 시계열 변수가 포함되어 있거나, 범주형 변수를 numeric하게 코딩하기, NA imputation 등이 있을 수 있습니다. 또한 데이터의 분포와 단위 차이를 모두 고려하여 적절하게 변환 및 스케일링을 해야 합니다. 모든 변수의 분포가 같을 필요는 없지만, 같은 단위에 있는 것이 바람직합니다. 
 
@@ -172,12 +172,20 @@ Bayesian Linear Regression 방법을 사용해 전 주에 준비한 설명변수
 
 **[demo]**
 
-\- R : https://github.com/avehtari/modelselection
+\- R : https://github.com/avehtari/modelselection (diabetes / rats / winequality-red 예시 참고)
+		https://galeascience.wordpress.com/2016/09/11/bayesian-linear-regression-on-the-swiss-dataset/
 
-\- python : https://www.quantstart.com/articles/Bayesian-Linear-Regression-Models-with-PyMC3/
+\- R packages : BAS, rstanarm, bayesplot, 등등
+
+\- python : https://electronicprogrammers.com/38
+				  https://www.kaggle.com/shtrausslearning/house-price-prediction-using-bayesian-regression
+				  https://towardsdatascience.com/bayesian-linear-regression-project-in-python-forecast-water-consumption-under-the-impact-of-cea62c2693e4
+
+\- python packages : PyMC, sklearn, statsmodel (PyStan, Theano, TFP 등 다른 mcmc 기반 패키지들이 있지만 PyMC가 가장 참고자료도 많고, 사용에 직관적)
 
 **[article]**
 
 \- https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7
+\- https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e
 
 그 외 구글링, 또 구글링...
