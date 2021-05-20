@@ -83,6 +83,7 @@ Bayesian Linear Regression 방법을 사용해 전 주에 준비한 설명변수
 - **[UCI / ESC] 범죄지도 만들기**
 
   - 베이지안 method를 이용하여 범죄지도 완성하기
+  - 결측치가 아닌 지역들의 데이터를 기반으로 모델을 세우고 그를 바탕으로 response variable의 결측치를 채워서 범죄지도 완성하기
   - 2215 obs. of 147 variables
   - 8종 범죄 : murders / rapes / robberies / assaults / burglaries / larcenies / autoTheft / arsons
   - original src : http://archive.ics.uci.edu/ml/datasets/communities+and+crime (dimension 약간 다름)
