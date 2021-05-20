@@ -50,7 +50,7 @@ https://youtu.be/DX1Z-cpR9j8
 [ESC 2021-1] 210513 Week8 MCMC and Diagnosis & Bayesian Linear Regression <br>
 https://youtu.be/THx1ka9KWog
 
-[ESC 2021-1] 210513 Week9 Bayesian Model Selection <br>
+[ESC 2021-1] 210520 Week9 Bayesian Model Selection <br>
 https://youtu.be/0yaCRqLjapk
 
 ## 학술부 세션 영상 링크
