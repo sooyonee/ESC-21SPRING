@@ -121,7 +121,6 @@ Bayesian Linear Regression 방법을 사용해 전 주에 준비한 설명변수
 \* Logistic problem을 선택하신 분들은 간사님께서 따로 모델링에 들어가기 전에 조금 더 심화된 방법론이랑 코드를 설명해 주실 예정입니다! (중간발표 전날 정도?)
 
 - **[COMPAS] 김해시 화재발생 예측모델**
-  
   - 경남지역 데이터를 이용해, 김해시의 화재 발생을 예측하기
   
   - 63 columns / fr_yn 예측 (binary response)
@@ -174,6 +173,7 @@ Bayesian Linear Regression 방법을 사용해 전 주에 준비한 설명변수
 
 \- R : https://github.com/avehtari/modelselection (diabetes / rats / winequality-red 예시 참고)
 		https://galeascience.wordpress.com/2016/09/11/bayesian-linear-regression-on-the-swiss-dataset/
+		(BAS example) https://cran.r-project.org/web/packages/BAS/vignettes/BAS-vignette.html
 
 \- R packages : BAS, rstanarm, bayesplot, 등등
 
