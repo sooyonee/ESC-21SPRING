@@ -172,14 +172,15 @@ Bayesian Linear Regression 방법을 사용해 전 주에 준비한 설명변수
 
 **[demo]**
 
-\- R : https://github.com/avehtari/modelselection (diabetes / rats / winequality-red 예시 참고)
-		https://galeascience.wordpress.com/2016/09/11/bayesian-linear-regression-on-the-swiss-dataset/
-		(BAS example) https://cran.r-project.org/web/packages/BAS/vignettes/BAS-vignette.html
+\- R : https://github.com/avehtari/modelselection (diabetes / rats / winequality-red 예시 참고) <br/>
+		https://galeascience.wordpress.com/2016/09/11/bayesian-linear-regression-on-the-swiss-dataset/ <br/>
+		(BAS example) https://cran.r-project.org/web/packages/BAS/vignettes/BAS-vignette.html <br/>
+		(includes logistic example) https://bayesball.github.io/BOOK/bayesian-multiple-regression-and-logistic-models.html <br/>
 
 \- R packages : BAS, rstanarm, bayesplot, 등등
 
-\- python : https://electronicprogrammers.com/38
-				  https://www.kaggle.com/shtrausslearning/house-price-prediction-using-bayesian-regression
+\- python : https://electronicprogrammers.com/38 <br/>
+				  https://www.kaggle.com/shtrausslearning/house-price-prediction-using-bayesian-regression <br/>
 				  https://towardsdatascience.com/bayesian-linear-regression-project-in-python-forecast-water-consumption-under-the-impact-of-cea62c2693e4
 
 \- python packages : PyMC, sklearn, statsmodel (PyStan, Theano, TFP 등 다른 mcmc 기반 패키지들이 있지만 PyMC가 가장 참고자료도 많고, 사용에 직관적)
